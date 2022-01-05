@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Actualizar un recurso y borrar datos","Actualizar un recurso","SUCCESS","2022-01-05T17:29:13.0050909-05:00[America/Bogota]","0.0","5.87"
+"Actualizar un recurso y borrar datos","Borrar un registro","SUCCESS","2022-01-05T17:29:18.8832134-05:00[America/Bogota]","0.0","0.68"
+"Actualizar y Obtener informacion en la pagina jsonplaceholder","Actualizar informacion","SUCCESS","2022-01-05T17:29:19.5726628-05:00[America/Bogota]","0.0","0.55"
+"Actualizar y Obtener informacion en la pagina jsonplaceholder","Obtener informacion","SUCCESS","2022-01-05T17:29:20.1329063-05:00[America/Bogota]","0.0","0.35"

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.serenity-bdd:serenity-screenplay-webdriver:2.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-screenplay-webdriver/2.2.9/4662fec7ec2062c3ffb2dac23db09c277cd5bc80/serenity-screenplay-webdriver-2.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-screenplay-webdriver/2.2.9/c6a452a9f2663469bc529707076c3901e5294c4/serenity-screenplay-webdriver-2.2.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
